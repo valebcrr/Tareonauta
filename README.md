@@ -45,13 +45,19 @@ Permite agregar, editar, marcar como completadas y filtrar tareas de manera senc
 
 ## 📂 Estructura del proyecto
 - src/
+  
  ├─ App.js
 
  ├─ components/
+ 
  │   ├─ TaskInput.jsx
+ 
  │   └─ TaskItem.jsx
+ 
  └─ main.jsx
+ 
 index.html
+
 package.json
 
 ---
