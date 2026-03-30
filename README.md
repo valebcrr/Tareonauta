@@ -39,7 +39,7 @@ Permite agregar, editar, marcar como completadas y filtrar tareas de manera senc
 - Clonar el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/tareonauta.git
+  - git clone https://github.com/tu-usuario/tareonauta.git
 
 2. Instalar dependencias:
 npm install
