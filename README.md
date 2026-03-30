@@ -36,7 +36,7 @@ Permite agregar, editar, marcar como completadas y filtrar tareas de manera senc
 
 ## 🚀 Cómo usar
 
-1. Clonar el repositorio:
+- 1. Clonar el repositorio:
 
 ```bash
 git clone https://github.com/tu-usuario/tareonauta.git
