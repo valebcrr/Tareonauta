@@ -1,16 +1,42 @@
-# React + Vite
+# Tareonauta 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicación web para gestionar tareas desarrollada con React y TailwindCSS.  
+Permite agregar, editar, marcar como completadas y filtrar tareas de manera sencilla.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠 Tecnologías
 
-## React Compiler
+- **React** (Hooks: useState, useEffect)  
+- **TailwindCSS**  
+- **Vite** como bundler rápido  
+- **LocalStorage** para persistencia de datos en el navegador  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Funcionalidades
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Agregar nuevas tareas  
+- Editar tareas existentes  
+- Marcar tareas como completadas o pendientes  
+- Filtrar tareas por:  
+  - Todas  
+  - Completadas  
+  - Pendientes  
+- Guardar automáticamente las tareas en LocalStorage  
+
+---
+
+## 📸 Capturas
+
+![Tareonauta Screenshot](https://link-a-tu-imagen.com/captura.png)  
+*(Reemplaza el enlace por una captura real de tu proyecto)*
+
+---
+
+## 🚀 Cómo usar
+
+1. Clonar el repositorio:
+
+```bash
+git clone https://github.com/tu-usuario/tareonauta.git
