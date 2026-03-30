@@ -36,28 +36,27 @@ Permite agregar, editar, marcar como completadas y filtrar tareas de manera senc
 
 ## 🚀 Cómo usar
 
-1. Clonar el repositorio: git clone https://github.com/tu-usuario/tareonauta.git
-2. Instalar dependencias: **npm install**
-3. Ejecutar en modo desarrollo: **npm run dev**
-4. Abrir en el navegador en http://localhost:5173
+```bash
+# Clonar repositorio
+git clone https://github.com/juanperez/tareonauta.git
+
+# Instalar dependencias
+npm install
+
+# Ejecutar en modo desarrollo
+npm run dev
 
 ---
 
 ## 📂 Estructura del proyecto
+```text
 src/
-  
  ├─ App.js
-
  ├─ components/
- 
  │   ├─ TaskInput.jsx
- 
  │   └─ TaskItem.jsx
- 
  └─ main.jsx
- 
 index.html
-
 package.json
 
 ---
