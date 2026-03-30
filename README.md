@@ -9,7 +9,7 @@ Permite agregar, editar, marcar como completadas y filtrar tareas de manera senc
 
 - **React** (Hooks: useState, useEffect)  
 - **TailwindCSS**  
-- **Vite** como bundler rápido  
+- **Vite** como constructor rápido de proyectos  
 - **LocalStorage** para persistencia de datos en el navegador  
 
 ---
