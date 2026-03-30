@@ -52,7 +52,7 @@ src/
  └─ main.jsx
 index.html
 package.json
-
+```
 ---
 
 ## 🔗 Demo
