@@ -31,7 +31,7 @@ Permite agregar, editar, marcar como completadas y filtrar tareas de manera senc
 
 ```bash
 # Clonar repositorio
-git clone https://github.com/valebcrr/tareonauta.git
+https://github.com/valebcrr/Tareonauta.git
 
 # Instalar dependencias
 npm install
