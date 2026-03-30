@@ -27,13 +27,6 @@ Permite agregar, editar, marcar como completadas y filtrar tareas de manera senc
 
 ---
 
-## 📸 Capturas
-
-![Tareonauta Screenshot](https://link-a-tu-imagen.com/captura.png)  
-*(Reemplaza el enlace por una captura real de tu proyecto)*
-
----
-
 ## 🚀 Cómo usar
 
 ```bash
@@ -47,6 +40,7 @@ npm install
 npm run dev
 
 ---
+
 
 ## 📂 Estructura del proyecto
 ```text
