@@ -38,7 +38,7 @@ npm install
 
 # Ejecutar en modo desarrollo
 npm run dev
-
+```
 ---
 
 
