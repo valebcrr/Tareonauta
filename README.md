@@ -36,10 +36,7 @@ Permite agregar, editar, marcar como completadas y filtrar tareas de manera senc
 
 ## 🚀 Cómo usar
 
-1. Clonar el repositorio:
-
-  - git clone https://github.com/tu-usuario/tareonauta.git
-
+1. Clonar el repositorio: git clone https://github.com/tu-usuario/tareonauta.git
 2. Instalar dependencias:
 npm install
 
